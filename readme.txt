@@ -79,3 +79,9 @@ Daniel Jonsson. Aleksandar Urošević has not been involved in this fork.
 = 10.0 (2015-01-03) =
 * Initial release
 
+== Screenshots ==
+
+1. Customizing the widget.
+2. The widget in action.
+3. The widget without the title descriptions.
+
