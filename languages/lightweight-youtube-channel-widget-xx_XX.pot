@@ -1,0 +1,273 @@
+# Copyright (C) 2015 Lightweight YouTube Channel Widget
+# This file is distributed under the same license as the Lightweight YouTube Channel Widget package.
+msgid ""
+msgstr ""
+"Project-Id-Version: Lightweight YouTube Channel Widget 10.0\n"
+"Report-Msgid-Bugs-To: http://wordpress.org/support/plugin/lightweight-"
+"youtube-channel-widget\n"
+"POT-Creation-Date: 2015-01-03 17:41:44+00:00\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"PO-Revision-Date: 2015-MO-DA HO:MI+ZONE\n"
+"Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
+"Language-Team: LANGUAGE <LL@li.org>\n"
+
+#: inc/widget.php:12
+msgid "Lightweight Youtube Channel Widget"
+msgstr ""
+
+#: inc/widget.php:14
+msgid "Show YouTube video thumbnails from a channel or playlist"
+msgstr ""
+
+#: inc/widget.php:71
+msgid "Widget Title"
+msgstr ""
+
+#: inc/widget.php:71
+msgid "Title for widget"
+msgstr ""
+
+#: inc/widget.php:74
+msgid "Channel ID"
+msgstr ""
+
+#: inc/widget.php:74
+msgid "YouTube Channel name (not URL to channel)"
+msgstr ""
+
+#: inc/widget.php:77
+msgid "Playlist ID"
+msgstr ""
+
+#: inc/widget.php:77
+msgid "YouTube Playlist ID (not playlist name)"
+msgstr ""
+
+#: inc/widget.php:80
+msgid "Resource to use"
+msgstr ""
+
+#: inc/widget.php:82
+msgid "Channel"
+msgstr ""
+
+#: inc/widget.php:83
+msgid "Favorites"
+msgstr ""
+
+#: inc/widget.php:84
+msgid "Playlist"
+msgstr ""
+
+#: inc/widget.php:88
+msgid "Cache feed"
+msgstr ""
+
+#: inc/widget.php:90
+msgid "Do not cache"
+msgstr ""
+
+#: inc/widget.php:95
+msgid "Fetch"
+msgstr ""
+
+#: inc/widget.php:95
+msgid ""
+"Number of videos that will be used for random pick (min 2, max 50, default "
+"25)"
+msgstr ""
+
+#: inc/widget.php:95 inc/widget.php:97
+msgid "video(s)"
+msgstr ""
+
+#: inc/widget.php:97
+msgid "Show"
+msgstr ""
+
+#: inc/widget.php:97
+msgid "Number of videos to display"
+msgstr ""
+
+#: inc/widget.php:100
+msgid "Enable this option if you get error No Item"
+msgstr ""
+
+#: inc/widget.php:100
+msgid "Fix <em>No items</em> error/Respect playlist order"
+msgstr ""
+
+#: inc/widget.php:102
+msgid "Get random videos of all fetched from channel or playlist"
+msgstr ""
+
+#: inc/widget.php:102
+msgid "Show random video"
+msgstr ""
+
+#: inc/widget.php:105
+msgid "Thumbnail Settings"
+msgstr ""
+
+#: inc/widget.php:106
+msgid "Aspect ratio"
+msgstr ""
+
+#: inc/widget.php:112
+msgid "Responsive thumbnail (distribute one full width video per row)"
+msgstr ""
+
+#: inc/widget.php:115
+msgid "Width"
+msgstr ""
+
+#: inc/widget.php:115
+msgid "Set video thumbnail in pixels"
+msgstr ""
+
+#: inc/widget.php:115
+msgid "default"
+msgstr ""
+
+#: inc/widget.php:118
+msgid "Content Layout"
+msgstr ""
+
+#: inc/widget.php:120
+msgid "Show video title"
+msgstr ""
+
+#: inc/widget.php:121
+msgid "Show video description"
+msgstr ""
+
+#: inc/widget.php:122
+msgid "Description length"
+msgstr ""
+
+#: inc/widget.php:122
+msgid ""
+"Set number of characters to cut down video description to (0 means full "
+"length)"
+msgstr ""
+
+#: inc/widget.php:123
+msgid "Et cetera string"
+msgstr ""
+
+#: inc/widget.php:123
+msgid "Default: &amp;hellip;"
+msgstr ""
+
+#: inc/widget.php:176
+msgid "1 minute"
+msgstr ""
+
+#: inc/widget.php:177
+msgid "5 minutes"
+msgstr ""
+
+#: inc/widget.php:178
+msgid "15 minutes"
+msgstr ""
+
+#: inc/widget.php:179
+msgid "30 minutes"
+msgstr ""
+
+#: inc/widget.php:182
+msgid "1 hour"
+msgstr ""
+
+#: inc/widget.php:183
+msgid "2 hours"
+msgstr ""
+
+#: inc/widget.php:184
+msgid "5 hours"
+msgstr ""
+
+#: inc/widget.php:185
+msgid "10 hours"
+msgstr ""
+
+#: inc/widget.php:186
+msgid "12 hours"
+msgstr ""
+
+#: inc/widget.php:187
+msgid "18 hours"
+msgstr ""
+
+#: inc/widget.php:190
+msgid "1 day"
+msgstr ""
+
+#: inc/widget.php:191
+msgid "2 days"
+msgstr ""
+
+#: inc/widget.php:192
+msgid "3 days"
+msgstr ""
+
+#: inc/widget.php:193
+msgid "4 days"
+msgstr ""
+
+#: inc/widget.php:194
+msgid "5 days"
+msgstr ""
+
+#: inc/widget.php:195
+msgid "6 days"
+msgstr ""
+
+#: inc/widget.php:198
+msgid "1 week"
+msgstr ""
+
+#: inc/widget.php:199
+msgid "2 weeks"
+msgstr ""
+
+#: inc/widget.php:200
+msgid "3 weeks"
+msgstr ""
+
+#: inc/widget.php:201
+msgid "1 month"
+msgstr ""
+
+#: youtube-channel.php:167
+msgid "No items"
+msgstr ""
+
+#: youtube-channel.php:169
+msgid "Check here why"
+msgstr ""
+
+#: youtube-channel.php:316
+msgid "Watch video %1$s published on %2$s"
+msgstr ""
+
+#. Plugin Name of the plugin/theme
+msgid "Lightweight YouTube Channel Widget"
+msgstr ""
+
+#. #-#-#-#-#  lightweight-youtube-channel-widget-xx_XX.pot (Lightweight YouTube Channel Widget 10.0)  #-#-#-#-#
+#. Plugin URI of the plugin/theme
+#. #-#-#-#-#  lightweight-youtube-channel-widget-xx_XX.pot (Lightweight YouTube Channel Widget 10.0)  #-#-#-#-#
+#. Author URI of the plugin/theme
+msgid "https://github.com/MaTachi/lightweight-wordpress-channel-widget"
+msgstr ""
+
+#. Description of the plugin/theme
+msgid "<a href=\"widgets.php\">Widget</a> that displays video thumbnails"
+msgstr ""
+
+#. Author of the plugin/theme
+msgid "Daniel Jonsson"
+msgstr ""
